@@ -1,0 +1,65 @@
+.ba .mo{
+    background: #141A31;
+}
+.ba .mo .logos{
+    background: #141A31;
+}
+.hj{
+    backdrop-filter: blur(10%);
+    background: url(kaji.gif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.jdl{
+    font-weight: 700;
+}
+.mnu{
+    color: aliceblue;
+}
+.kiw{
+    max-width: 100%;
+    transform: translateX(-40%);
+    
+    list-style: none;
+   
+    
+}
+
+.ha .content-wrapper{
+    
+}
+.ha .b .haji .kiw .o .kotak{
+    backdrop-filter: blur(10px);
+    border-radius: 20px; background: #141A31;
+    border: 2px solid #45cff100;
+    box-shadow: 2px 2px 10px #45CFF1,-2px -1s2px 10px #f14545;
+    text-align: center;
+    overflow: hidden;
+
+}
+.tmbl{
+    background: linear-gradient(-100deg,#3d8fa82c,#bcc0c22c);
+    backdrop-filter: blur(20px);
+    border-radius: 20px;
+    font-weight: 800;
+    color: #eaecee;
+    
+}
+.buf .warna{
+    background: linear-gradient(100deg,#24ba389b,#bfc7bfb9);
+    border: 3px solid #46aece;
+    position: relative;
+    box-shadow: 2px 0px 5px rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+}
+.main_panel .bck{
+    background: #747b828b;
+    box-shadow: 2px 0px 10px #45CFF1,2px 0px 10px #0b0f10,2px 0px 10px #bcbfbc,
+    inset -2px 0 15px #4bf145,inset -2px 0 15px #45CFF1,inset -2px 0 15px #45CFF1;
+
+}
+.formm{
+    width: 50%;
+}
+
